@@ -1,0 +1,24 @@
+{
+  "name": "computer-graphics-study-notes",
+  "version": "1.0.0",
+  "description": "计算机图形学学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y1j2x34/computer-graphics-study-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y1j2x34/computer-graphics-study-notes/issues"
+  },
+  "homepage": "https://github.com/y1j2x34/computer-graphics-study-notes#readme",
+  "devDependencies": {
+    "docsify": "^4.12.1",
+    "docsify-drawio": "^1.0.7"
+  }
+}
