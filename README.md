@@ -8,3 +8,10 @@
 - 书籍： 《Fundamentals of Computer Graphics (3rd Edition)》
 
     <embed src="/assets/Fundamentals of Computer Graphics (3rd Edition) .pdf" style="width: 100%; height: 800px;"></embed>
+
+## 如何运行
+
+```bash
+npm i
+npm start
+```
