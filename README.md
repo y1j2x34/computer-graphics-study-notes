@@ -1,5 +1,7 @@
 # 计算机图形学笔记
 
+[asdasd](./docs/计算机图形学/发展历史.drawio ':include :type=code')
+
 ## 学习资料
 
 - [《计算机图形学》（清华大学胡事民教授](https://www.bilibili.com/video/BV1at411D7YV?p=1)
