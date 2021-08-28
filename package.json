@@ -23,5 +23,9 @@
     "docsify-drawio": "^1.0.7",
     "docsify-pagination": "^2.6.1",
     "gitalk": "^1.7.2"
+  },
+  "dependencies": {
+    "docsify-katex": "^1.4.3",
+    "katex": "^0.13.13"
   }
 }
