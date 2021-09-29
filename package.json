@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "docsify-katex": "^1.4.3",
-    "katex": "^0.13.13"
+    "katex": "^0.13.13",
+    "prismjs": "^1.25.0"
   }
 }
